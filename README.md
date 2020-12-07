@@ -15,11 +15,7 @@ I'm from Portugal, and I am a JavaScript developer, focusing mainly on the backe
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FellRamos)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/feliciano-ramos-0a351747/)
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="FellRamos GitHub Stats" src="https://github-readme-stats.fellramos.vercel.app/api?username=FellRamos&show_icons=true"/>
+<summary>:zap: GitHub Stats</summary>
+<img align="left" alt="FellRamos GitHub Stats" src="https://github-readme-stats.fellramos.vercel.app/api?username=FellRamos&show_icons=true"/>
  
-</details>
-
-![GitHub stats](https://github-readme-stats.fellramos.vercel.app/api?username=FellRamos&show_icons=true)  
 
