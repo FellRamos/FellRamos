@@ -6,7 +6,8 @@ I'm from Portugal, and I am a JavaScript developer, focusing mainly on the backe
 
 ### Skills: 
 JavaScript, Node.js, Express
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" />
+https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png
+
 
 - 🔭 I’m currently working on RESTful APIs 
 - 🌱 I’m currently learning how to build CLI tools with node.js using TypeScript 
