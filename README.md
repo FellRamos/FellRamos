@@ -4,7 +4,11 @@
 
 I'm from Portugal, and I am a JavaScript developer, focusing mainly on the backend with Node.js. My main work is developing RESTful APIs using express framework, to provide easy access to backend resources.
 
-Skills: JS / Node.js / Express
+### Skills: 
+- JS
+- Node.js
+- Express
+
 
 - 🔭 I’m currently working on RESTful APIs 
 - 🌱 I’m currently learning how to build CLI tools with node.js using TypeScript 
