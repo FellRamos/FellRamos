@@ -16,7 +16,7 @@ I'm from Portugal, and I am a JavaScript developer, focusing mainly on the backe
 - 🔭 I’m currently working on RESTful APIs 
 - 🌱 I’m currently learning how to build CLI tools with node.js using TypeScript 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Fell-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/feliciano-ramos-0a351747/)
+[![Linkedin Badge](https://img.shields.io/badge/-FellRamos-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/feliciano-ramos-0a351747/)
 
 <summary>:zap: GitHub Stats</summary>
 <img align="left" alt="FellRamos GitHub Stats" src="https://github-readme-stats.fellramos.vercel.app/api?username=FellRamos&show_icons=true"/>
