@@ -28,5 +28,5 @@ I'm from Portugal, and I am a JavaScript developer, focusing mainly on the backe
 
 <summary>:zap: GitHub Stats</summary>
 <img align="left" alt="FellRamos GitHub Stats" src="https://github-readme-stats.fellramos.vercel.app/api?username=FellRamos&show_icons=true"/>
- 
+<img align="right" alt="FellRamos GitHub Languages" src="https://github-readme-stats.fellramos.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=material-palenight" />
 
