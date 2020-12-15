@@ -16,6 +16,7 @@ I'm from Portugal, and I am a JavaScript developer, focusing mainly on the backe
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=flat&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=flat&labelColor=black&logo=node.js&logoColor=3C873A)](#)
 [![AWS Badge](https://img.shields.io/badge/-AWS-FFCA28?style=flat&labelColor=black&logo=amazon-aws&logoColor=FFCA28)](#)
+[![Terraform Badge](https://img.shields.io/badge/-Terraform-623CE4?style=flat&labelColor=black&logo=terraform&logoColor=623CE4)](#)
 
 ### Learning:
 
