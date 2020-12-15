@@ -29,4 +29,4 @@ I'm from Portugal, and I am a JavaScript developer, focusing mainly on the backe
 <summary>:zap: GitHub Stats</summary>
 <img align="left" alt="FellRamos GitHub Stats" src="https://github-readme-stats.fellramos.vercel.app/api?username=FellRamos&show_icons=true"/>
  
-# https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png
+
