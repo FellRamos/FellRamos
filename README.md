@@ -27,5 +27,5 @@ I'm from Portugal, and I am a JavaScript developer, focusing mainly on the backe
 [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=flat&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 
 <summary>:zap: GitHub Stats</summary>
-<img align="left" alt="FellRamos GitHub Stats" src="https://github-readme-stats.fellramos.vercel.app/api?username=FellRamos&show_icons=true"/>
-<img align="Left" alt="FellRamos GitHub Languages" src="https://github-readme-stats.fellramos.vercel.app/api/top-langs/?username=FellRamos&layout=compact&theme=material-palenight" />
+<img align="left" alt="FellRamos GitHub Stats" src="https://github-readme-stats.fellramos.vercel.app/api?username=FellRamos&show_icons=truelayout=compact&theme=nord"/>
+<img align="Left" alt="FellRamos GitHub Languages" src="https://github-readme-stats.fellramos.vercel.app/api/top-langs/?username=FellRamos&layout=compact&theme=nord" />
